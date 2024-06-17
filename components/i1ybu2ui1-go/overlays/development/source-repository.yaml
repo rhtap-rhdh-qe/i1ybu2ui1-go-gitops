@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: i1ybu2ui1-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/i1ybu2ui1-go
